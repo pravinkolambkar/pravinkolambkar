@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pravinkolambkar
 - 👀 I’m interested in Software Developement
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Angular JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
